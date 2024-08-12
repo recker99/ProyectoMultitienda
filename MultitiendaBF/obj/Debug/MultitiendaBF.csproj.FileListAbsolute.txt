@@ -1,0 +1,13 @@
+C:\Users\ivanb\source\repos\ProjectoMultitienda\MultitiendaBF\bin\Debug\MultitiendaBF.dll.config
+C:\Users\ivanb\source\repos\ProjectoMultitienda\MultitiendaBF\bin\Debug\MultitiendaBF.dll
+C:\Users\ivanb\source\repos\ProjectoMultitienda\MultitiendaBF\bin\Debug\MultitiendaBF.pdb
+C:\Users\ivanb\source\repos\ProjectoMultitienda\MultitiendaBF\bin\Debug\EntityFramework.dll
+C:\Users\ivanb\source\repos\ProjectoMultitienda\MultitiendaBF\bin\Debug\MultitiendaDAL.dll
+C:\Users\ivanb\source\repos\ProjectoMultitienda\MultitiendaBF\bin\Debug\MultitiendaDAL.pdb
+C:\Users\ivanb\source\repos\ProjectoMultitienda\MultitiendaBF\bin\Debug\MultitiendaDAL.dll.config
+C:\Users\ivanb\source\repos\ProjectoMultitienda\MultitiendaBF\bin\Debug\EntityFramework.xml
+C:\Users\ivanb\source\repos\ProjectoMultitienda\MultitiendaBF\obj\Debug\MultitiendaBF.csproj.AssemblyReference.cache
+C:\Users\ivanb\source\repos\ProjectoMultitienda\MultitiendaBF\obj\Debug\MultitiendaBF.csproj.CoreCompileInputs.cache
+C:\Users\ivanb\source\repos\ProjectoMultitienda\MultitiendaBF\obj\Debug\Multitie.D02F7A04.Up2Date
+C:\Users\ivanb\source\repos\ProjectoMultitienda\MultitiendaBF\obj\Debug\MultitiendaBF.dll
+C:\Users\ivanb\source\repos\ProjectoMultitienda\MultitiendaBF\obj\Debug\MultitiendaBF.pdb

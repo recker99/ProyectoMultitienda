@@ -1,0 +1,10 @@
+C:\Users\ivanb\source\repos\ProjectoMultitienda\MultitiendaDAL\bin\Debug\MultitiendaDAL.dll.config
+C:\Users\ivanb\source\repos\ProjectoMultitienda\MultitiendaDAL\bin\Debug\MultitiendaDAL.dll
+C:\Users\ivanb\source\repos\ProjectoMultitienda\MultitiendaDAL\bin\Debug\MultitiendaDAL.pdb
+C:\Users\ivanb\source\repos\ProjectoMultitienda\MultitiendaDAL\bin\Debug\EntityFramework.dll
+C:\Users\ivanb\source\repos\ProjectoMultitienda\MultitiendaDAL\bin\Debug\EntityFramework.xml
+C:\Users\ivanb\source\repos\ProjectoMultitienda\MultitiendaDAL\obj\Debug\MultitiendaDAL.csproj.AssemblyReference.cache
+C:\Users\ivanb\source\repos\ProjectoMultitienda\MultitiendaDAL\obj\Debug\MultitiendaDAL.csproj.CoreCompileInputs.cache
+C:\Users\ivanb\source\repos\ProjectoMultitienda\MultitiendaDAL\obj\Debug\Multitie.D029174D.Up2Date
+C:\Users\ivanb\source\repos\ProjectoMultitienda\MultitiendaDAL\obj\Debug\MultitiendaDAL.dll
+C:\Users\ivanb\source\repos\ProjectoMultitienda\MultitiendaDAL\obj\Debug\MultitiendaDAL.pdb

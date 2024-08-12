@@ -1,0 +1,45 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="Multitienda.Web.Pages.Site1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>Multitienda</title>
+    <link rel="stylesheet" type="text/css" href="~/css/estilos.css" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+       <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    </asp:ContentPlaceHolder> 
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div class="container">
+            <!-- Menú de navegación -->
+            <nav class="navbar navbar-expand-lg navbar-dark bg-dark">                         
+                    <asp:Menu ID="Menu1" runat="server" DataSourceID="SiteMapDataSource1"
+                          StaticDisplayLevels="1" Orientation="Horizontal" CssClass="menu">
+                    <StaticMenuStyle CssClass="menu-item" />
+                    <StaticSelectedStyle CssClass="selected-item" />
+                </asp:Menu>
+                <asp:SiteMapDataSource runat="server" ID="SiteMapDataSource1" 
+                                       StartingNodeOffset="0" ShowStartingNode="false"></asp:SiteMapDataSource>
+            </nav>
+
+            <!-- Contenido principal -->
+            <main class="main-content">
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                    <!-- Contenido específico de cada página -->
+                </asp:ContentPlaceHolder>
+            </main>
+
+            <!-- Footer -->
+            <footer class="footer bg-dark text-white text-center py-3">
+                <p>&copy; 2024 Multitienda. Todos los derechos reservados.</p>
+                <p>Contacto: info@multitienda.com | Tel: +56 9 1234 5678</p>
+            </footer>
+        </div>
+    </form>
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.2/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ivanb\\source\\repos\\ProjectoMultitienda\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52F8B5F4-AA52-4156-9E6A-4DA5B9208C7D}|Multitienda.Web\\Multitienda.Web.csproj|c:\\users\\ivanb\\source\\repos\\projectomultitienda\\multitienda.web\\pages\\inicio.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{52F8B5F4-AA52-4156-9E6A-4DA5B9208C7D}|Multitienda.Web\\Multitienda.Web.csproj|solutionrelative:multitienda.web\\pages\\inicio.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F8B5F4-AA52-4156-9E6A-4DA5B9208C7D}|Multitienda.Web\\Multitienda.Web.csproj|c:\\users\\ivanb\\source\\repos\\projectomultitienda\\multitienda.web\\pages\\producto.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{52F8B5F4-AA52-4156-9E6A-4DA5B9208C7D}|Multitienda.Web\\Multitienda.Web.csproj|solutionrelative:multitienda.web\\pages\\producto.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F8B5F4-AA52-4156-9E6A-4DA5B9208C7D}|Multitienda.Web\\Multitienda.Web.csproj|c:\\users\\ivanb\\source\\repos\\projectomultitienda\\multitienda.web\\pages\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{52F8B5F4-AA52-4156-9E6A-4DA5B9208C7D}|Multitienda.Web\\Multitienda.Web.csproj|solutionrelative:multitienda.web\\pages\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F8B5F4-AA52-4156-9E6A-4DA5B9208C7D}|Multitienda.Web\\Multitienda.Web.csproj|c:\\users\\ivanb\\source\\repos\\projectomultitienda\\multitienda.web\\css\\estilos.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{52F8B5F4-AA52-4156-9E6A-4DA5B9208C7D}|Multitienda.Web\\Multitienda.Web.csproj|solutionrelative:multitienda.web\\css\\estilos.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F8B5F4-AA52-4156-9E6A-4DA5B9208C7D}|Multitienda.Web\\Multitienda.Web.csproj|c:\\users\\ivanb\\source\\repos\\projectomultitienda\\multitienda.web\\pages\\categoria.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{52F8B5F4-AA52-4156-9E6A-4DA5B9208C7D}|Multitienda.Web\\Multitienda.Web.csproj|solutionrelative:multitienda.web\\pages\\categoria.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F8B5F4-AA52-4156-9E6A-4DA5B9208C7D}|Multitienda.Web\\Multitienda.Web.csproj|c:\\users\\ivanb\\source\\repos\\projectomultitienda\\multitienda.web\\pages\\categoria.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52F8B5F4-AA52-4156-9E6A-4DA5B9208C7D}|Multitienda.Web\\Multitienda.Web.csproj|solutionrelative:multitienda.web\\pages\\categoria.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F8B5F4-AA52-4156-9E6A-4DA5B9208C7D}|Multitienda.Web\\Multitienda.Web.csproj|C:\\Users\\ivanb\\source\\repos\\ProjectoMultitienda\\multitienda.web\\pages\\producto.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52F8B5F4-AA52-4156-9E6A-4DA5B9208C7D}|Multitienda.Web\\Multitienda.Web.csproj|solutionrelative:multitienda.web\\pages\\producto.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Site1.Master",
+              "DocumentMoniker": "C:\\Users\\ivanb\\source\\repos\\ProjectoMultitienda\\Multitienda.Web\\Pages\\Site1.Master",
+              "RelativeDocumentMoniker": "Multitienda.Web\\Pages\\Site1.Master",
+              "ToolTip": "C:\\Users\\ivanb\\source\\repos\\ProjectoMultitienda\\Multitienda.Web\\Pages\\Site1.Master",
+              "RelativeToolTip": "Multitienda.Web\\Pages\\Site1.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-12T21:21:02.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "estilos.css",
+              "DocumentMoniker": "C:\\Users\\ivanb\\source\\repos\\ProjectoMultitienda\\Multitienda.Web\\css\\estilos.css",
+              "RelativeDocumentMoniker": "Multitienda.Web\\css\\estilos.css",
+              "ToolTip": "C:\\Users\\ivanb\\source\\repos\\ProjectoMultitienda\\Multitienda.Web\\css\\estilos.css",
+              "RelativeToolTip": "Multitienda.Web\\css\\estilos.css",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAqwGoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-12T21:20:31.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "categoria.aspx",
+              "DocumentMoniker": "C:\\Users\\ivanb\\source\\repos\\ProjectoMultitienda\\Multitienda.Web\\Pages\\categoria.aspx",
+              "RelativeDocumentMoniker": "Multitienda.Web\\Pages\\categoria.aspx",
+              "ToolTip": "C:\\Users\\ivanb\\source\\repos\\ProjectoMultitienda\\Multitienda.Web\\Pages\\categoria.aspx",
+              "RelativeToolTip": "Multitienda.Web\\Pages\\categoria.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-12T21:15:41.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "inicio.aspx",
+              "DocumentMoniker": "C:\\Users\\ivanb\\source\\repos\\ProjectoMultitienda\\Multitienda.Web\\Pages\\inicio.aspx",
+              "RelativeDocumentMoniker": "Multitienda.Web\\Pages\\inicio.aspx",
+              "ToolTip": "C:\\Users\\ivanb\\source\\repos\\ProjectoMultitienda\\Multitienda.Web\\Pages\\inicio.aspx",
+              "RelativeToolTip": "Multitienda.Web\\Pages\\inicio.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-12T20:47:49.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "producto.aspx",
+              "DocumentMoniker": "C:\\Users\\ivanb\\source\\repos\\ProjectoMultitienda\\Multitienda.Web\\Pages\\producto.aspx",
+              "RelativeDocumentMoniker": "Multitienda.Web\\Pages\\producto.aspx",
+              "ToolTip": "C:\\Users\\ivanb\\source\\repos\\ProjectoMultitienda\\Multitienda.Web\\Pages\\producto.aspx",
+              "RelativeToolTip": "Multitienda.Web\\Pages\\producto.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-12T20:40:13.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "producto.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\ivanb\\source\\repos\\ProjectoMultitienda\\Multitienda.Web\\Pages\\producto.aspx.cs",
+              "RelativeDocumentMoniker": "Multitienda.Web\\Pages\\producto.aspx.cs",
+              "ToolTip": "C:\\Users\\ivanb\\source\\repos\\ProjectoMultitienda\\Multitienda.Web\\Pages\\producto.aspx.cs",
+              "RelativeToolTip": "Multitienda.Web\\Pages\\producto.aspx.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAAAIcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T03:56:51.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "categoria.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\ivanb\\source\\repos\\ProjectoMultitienda\\Multitienda.Web\\Pages\\categoria.aspx.cs",
+              "RelativeDocumentMoniker": "Multitienda.Web\\Pages\\categoria.aspx.cs",
+              "ToolTip": "C:\\Users\\ivanb\\source\\repos\\ProjectoMultitienda\\Multitienda.Web\\Pages\\categoria.aspx.cs",
+              "RelativeToolTip": "Multitienda.Web\\Pages\\categoria.aspx.cs",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAAAEwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T02:45:09.756Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
